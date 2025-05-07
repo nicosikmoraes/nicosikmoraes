@@ -26,5 +26,3 @@ Hey, my name is Nicolas Siqueira Moraes, a student of Internet Systems at the Fe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake.svg" />
 </picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
