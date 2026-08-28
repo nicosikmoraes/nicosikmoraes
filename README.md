@@ -16,7 +16,7 @@ Internet Systems student at UTFPR and developer at DalPozzo
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nicosikmoraes&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy-winning.vercel.app/?username=nicosikmoraes&theme=radical&row=1&column=6)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nicosikmoraes&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nicosikmoraes&theme=radical)](https://github-trophies.devomb.com/?username=nicosikmoraes&theme=radical&row=1&column=6)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake-dark.svg" />
