@@ -1,6 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=120&section=header&text=Nicolas%20Siqueira%20Moraes&fontSize=32&fontColor=C9D1D9&fontAlignY=55)
-# 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9198A1&center=true&vCenter=true&width=600&lines=Nicolas+Siqueira+Moraes;Estudante+de+Sistemas+para+Internet;Desenvolvedor+OutSystems)
+## 👋 About Me:
+
+Internet Systems student at UTFPR and developer at DalPozzo
+
+> "Every bug has an explanation. Sometimes it's just hiding behind an `EXPLAIN PLAN`."
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicosikmoraes/) 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicosikmoraes&color=blue)
@@ -9,8 +12,8 @@
 ![OutSystems](https://img.shields.io/badge/OutSystems-E15927?style=for-the-badge&logo=outsystems&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 # 📊 GitHub Stats:
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicosikmoraes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicosikmoraes&layout=compact&theme=radical)
+![Nicolas's GitHub stats](https://github-stats-extended.vercel.app/api?username=nicosikmoraes&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nicosikmoraes&layout=compact&theme=radical)
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=nicosikmoraes&theme=radical&row=1&column=6)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nicosikmoraes&theme=radical)
