@@ -18,7 +18,6 @@ Internet Systems student at UTFPR and developer at DalPozzo
 ![trophy](https://github-profile-trophy-winning.vercel.app/?username=nicosikmoraes&theme=radical&row=1&column=6)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=nicosikmoraes&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=nicosikmoraes&icon=0&color=0)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake.svg" />
