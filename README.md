@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Nicolas%20Siqueira%20Moraes&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=120&section=header&text=Nicolas%20Siqueira%20Moraes&fontSize=32&fontColor=C9D1D9&fontAlignY=55)
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Nicolas+Siqueira+Moraes;Estudante+de+Sistemas+para+Internet;Desenvolvedor+OutSystems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9198A1&center=true&vCenter=true&width=600&lines=Nicolas+Siqueira+Moraes;Estudante+de+Sistemas+para+Internet;Desenvolvedor+OutSystems)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicosikmoraes/) 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicosikmoraes&color=blue)
@@ -23,4 +23,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nicosikmoraes/nicosikmoraes/output/github-snake.svg" />
 </picture>
-ele tem os pontos de exclamação, já me mande com as atualizações do header e nome
